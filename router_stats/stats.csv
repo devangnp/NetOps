@@ -1,0 +1,10 @@
+device,intf,input,output
+r1,et1,100,110
+r1,et2,102,112
+r1,et3,103,113
+r2,et1,200,210
+r2,et2,202,212
+r2,et3,203,213
+r3,et1,300,error
+r3,et2,302,312
+r3,et3,303,313
