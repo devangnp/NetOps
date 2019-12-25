@@ -1,0 +1,4 @@
+{%- for intf in intfs %}
+
+set interfaces {{ intf }} unit 0 vlan-id {{ vlan['vlan_id'] }}
+{%- endfor %}
