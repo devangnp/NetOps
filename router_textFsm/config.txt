@@ -1,0 +1,2 @@
+set interfaces lo0 description netmiko_config_change_test1
+set firewall family inet filter netmiko_test1 term 1 then accept 

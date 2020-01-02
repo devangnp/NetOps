@@ -1,0 +1,7 @@
+#Nornir host file
+---
+r1:
+  hostname: 10.85.162.147
+  groups:
+    - mylab
+

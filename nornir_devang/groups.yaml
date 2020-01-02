@@ -1,0 +1,7 @@
+#Nornir groups file
+---
+mylab:
+  username: labroot
+  password: lab123
+  platform: 'junos' 
+
